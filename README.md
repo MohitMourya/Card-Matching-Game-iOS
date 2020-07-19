@@ -1,4 +1,4 @@
-# Matching-Card-Game
+# Card Matching Game
 
 Created it while learning Swift5 App Development from @CodeWithChris
 
